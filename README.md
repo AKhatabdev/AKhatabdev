@@ -2,8 +2,8 @@
 
 #### My name is Awais, I am a Software Engineer that is currently studying UX Design MSc. I am passionate about Computer Science and advanced technologies. In my spare time you will probably find me reading a book 📖, playing games 🎮 or building and experimenting with software applications 💻.
 
-###### Nationality: 🇬🇧
-###### Area: Surrey
+##### Nationality: 🇬🇧
+##### Area: Surrey
 
 #### Follow me on Instagram and Linkedin:
 
