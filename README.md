@@ -1,4 +1,4 @@
-<img src= "images/IntroImage.jpg" width="500" >
+<img src= "images/IntroImage.JPG" width="500" >
 
 ### Hi there 👋
 
