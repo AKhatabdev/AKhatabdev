@@ -1,4 +1,4 @@
-![alt image](IntroImage.JPG)
+<img src= "images/IntroImage.jpg" >
 
 ### Hi there 👋
 
