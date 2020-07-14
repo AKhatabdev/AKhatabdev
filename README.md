@@ -1,4 +1,5 @@
-![alt image](IntroImage.JPG)
+![Image](https://github.com/AKhatabdev/AKhatabdev/blob/master/images/IntroImage.jpg)
+
 
 ### Hi there 👋
 
