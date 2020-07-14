@@ -1,4 +1,5 @@
-<img src= "images/IntroImage.JPG" width="500" >
+![Image](https://github.com/AKhatabdev/AKhatabdev/blob/master/images/IntroImage.jpg)
+
 
 ### Hi there 👋
 
