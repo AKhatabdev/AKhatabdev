@@ -5,8 +5,6 @@
 ##### Nationality: 🇬🇧
 ##### Location: UK, Surrey
 
-#### Instagram and Linkedin:
-
 ### Instagram
 https://www.instagram.com/interdimensional_pancake.dev/
 
