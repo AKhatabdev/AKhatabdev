@@ -6,7 +6,7 @@
 ##### Location: UK, Surrey
 
 
-#### Currently learning: React 👨🏽‍💻
+##### Currently learning: React 👨🏽‍💻
 
 ### Instagram
 https://www.instagram.com/interdimensional_pancake.dev/
