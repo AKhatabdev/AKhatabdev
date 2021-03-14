@@ -9,7 +9,7 @@
 ##### Currently working on: A Secret Project ❓
 
 ### Instagram
-https://www.instagram.com/interdimensional_pancake.dev/
+https://www.instagram.com/interdimensional_pancake.eng/
 
 ### Linkedin
 https://www.linkedin.com/feed/
