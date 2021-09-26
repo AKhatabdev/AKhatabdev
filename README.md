@@ -7,7 +7,7 @@
 ##### Nationality: 🇬🇧
 
 
-##### Currently working on: A Secret Project ❓
+##### Currently working on: Lorderly
 
 ### Instagram
 https://www.instagram.com/interdimensional_pancake.eng/
