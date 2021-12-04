@@ -2,7 +2,7 @@
 
 ### Hi everyone :octocat:
 
-#### My name is Awais, I am a Software Engineer who has recently studied a Master's Degree (UX Design) Grade (Merit), I also hold a Computer Science BSc (Hons) Degree Grade (2:1). I am passionate about Computer Science and advanced technologies. In my spare time you will probably find me reading a book 📖, watching anime or playing games 🎮 
+#### My name is Awais, I am a Software Engineer who has recently completed a Master's Degree (UX Design) Grade (Merit), I also hold a Computer Science BSc (Hons) Degree Grade (2:1). I am passionate about Computer Science and advanced technologies. In my spare time you will probably find me reading a book 📖, watching anime or playing games 🎮 
 
 ##### Nationality: 🇬🇧
 
