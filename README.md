@@ -9,11 +9,10 @@
 
 ##### Currently working on: Crypton
 
+### Linkedin
+https://www.linkedin.com/in/awais-khatab-3aa18616b/
 ### Instagram
 https://www.instagram.com/interdimensional_pancake.eng/
-
-### Linkedin
-https://www.linkedin.com/feed/
 
 
 
