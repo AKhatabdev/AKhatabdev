@@ -14,10 +14,6 @@ https://www.linkedin.com/in/awais-khatab-3aa18616b/
 ### Instagram
 https://www.instagram.com/interdimensional_pancake.eng/
 
-
-
-![Image](https://github.com/AKhatabdev/AKhatabdev/blob/master/images/IntroImage.jpg)
-
 <!--
 **AKhatabdev/AKhatabdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
