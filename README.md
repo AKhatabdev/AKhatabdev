@@ -2,12 +2,13 @@
 
 #### :octocat: Hi everyone!
 
-#### My name is Awais, I am a Software Engineer who has recently obtained my Master's Degree (UX Design) Grade (Merit), I also hold a Computer Science BSc (Hons) Degree Grade (2:1). I am passionate about Computer Science and advanced technologies. Honing my skills within Web Development, JavaScript and React atm! 
-#### In my spare time you will probably find me reading a book 📖, watching anime or playing games 🎮 
+#### My name is Awais, I am a Software Engineer who has recently obtained my Master's Degree (UX Design) Grade (Merit), I also hold a Computer Science BSc (Hons) Degree Grade (2:1). I have always been passionate about Computer Science and advanced technologies. At the moment I am honing my skills within Web Development, JavaScript and React, I am also diving into Web 3.0 and Blockchain (NFT). 
+#### In my spare time you will probably find me researching, reading a book 📖, watching anime or playing games 🎮 
 
-##### Nationality: 🇬🇧
+##### Nationality: British
 
-##### Currently working on: Crypton
+##### Currently working on: Crypton v2
+https://www.planet-crypton.com
 
 ### Linkedin
 https://www.linkedin.com/in/awais-khatab-3aa18616b/
