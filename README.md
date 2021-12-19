@@ -8,7 +8,7 @@
 ##### Nationality: British
 
 ##### Currently working on: Crypton v2
-https://www.planet-crypton.com
+www.planet-crypton.com
 
 ### Linkedin
 https://www.linkedin.com/in/awais-khatab-3aa18616b/
