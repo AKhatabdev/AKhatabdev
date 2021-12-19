@@ -1,5 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=AKhatabdev&show_icons=true&count_private=true" width="500" height="auto"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKhatabdev&layout=compact/" width="208" height="auto"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=AKhatabdev&show_icons=true&count_private=true" width="500" height="auto"/>
 ### Hi everyone :octocat:
 
 #### My name is Awais, I am a Software Engineer who has recently obtained my Master's Degree (UX Design) Grade (Merit), I also hold a Computer Science BSc (Hons) Degree Grade (2:1). I am passionate about Computer Science and advanced technologies. Honing my skills within Web Development, JavaScript and React atm! 
