@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AKhatabdev&show_icons=true&count_private=true" width="500" height="auto"/>
 
-#### Hi everyone :octocat:
+#### :octocat: Hi everyone!
 
 #### My name is Awais, I am a Software Engineer who has recently obtained my Master's Degree (UX Design) Grade (Merit), I also hold a Computer Science BSc (Hons) Degree Grade (2:1). I am passionate about Computer Science and advanced technologies. Honing my skills within Web Development, JavaScript and React atm! 
 #### In my spare time you will probably find me reading a book 📖, watching anime or playing games 🎮 
