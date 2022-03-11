@@ -9,6 +9,7 @@
 
 ##### Currently working on: Crypton v2
 [![Netlify Status](https://api.netlify.com/api/v1/badges/07fbf196-e79b-4774-8af1-0dfe89eb3d60/deploy-status)](https://app.netlify.com/sites/cryptonx/deploys)
+
 www.planet-crypton.com
 
 ### Linkedin
