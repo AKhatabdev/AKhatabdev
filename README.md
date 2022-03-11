@@ -10,7 +10,7 @@
 ##### Portfolio Website:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b2f76165-aae8-467a-ad77-69516ddfaea3/deploy-status)](https://app.netlify.com/sites/awais-khatab-personal-website/deploys)
 
-http://www.awaiskhatab.engineer/
+www.awaiskhatab.engineer
 
 ##### Currently working on: Crypton v2
 [![Netlify Status](https://api.netlify.com/api/v1/badges/07fbf196-e79b-4774-8af1-0dfe89eb3d60/deploy-status)](https://app.netlify.com/sites/cryptonx/deploys)
