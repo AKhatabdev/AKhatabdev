@@ -4,7 +4,7 @@
 
 #### :octocat: Hi everyone!
 
-#### My name is Awais (A-Vass), I'm a Full Stack Software Engineer who loves React, I have recently finished my Master's Degree in UX Design, I also hold a Computer Science BSc Hons Degree. I have always been passionate about Computer Science and advanced technologies. At the moment I am honing my skills within Web Development, JavaScript and React.
+#### My name is Awais (A-Vass), I'm a Full Stack Software Engineer who loves React, I have recently finished my Master's Degree in UX Design, I also hold a Computer Science BSc Hons Degree. I have always been passionate about Computer Science and advanced technologies. recursively honing my skills within web development, system design, and React.
 #### In my spare time you will probably find me researching, reading a book 📖, watching anime or playing games 🎮 
 
 ##### Nationality: British
