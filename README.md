@@ -18,8 +18,8 @@ www.awaiskhatab.engineer
 [![Netlify Status](https://api.netlify.com/api/v1/badges/07fbf196-e79b-4774-8af1-0dfe89eb3d60/deploy-status)](https://app.netlify.com/sites/cryptonx/deploys)
 
 www.planet-crypton.com
-
-
+&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/awais-khatab-3aa18616b/"><img src="/images/LinkedIN.png" width="50" height="auto" />&nbsp;&nbsp;&nbsp;</a><a href="https://medium.com/@AwaisKhatab"><img src="/images/Medium.png" width="50" height="auto" />&nbsp;&nbsp;&nbsp;
 </a><a href="https://www.instagram.com/interdimensional_pancake.eng/"><img src="/images/Instagram-1.png" width="50" height="auto" />&nbsp;&nbsp;&nbsp;</a>
 
