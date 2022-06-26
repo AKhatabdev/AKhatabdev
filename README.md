@@ -19,7 +19,7 @@ www.awaiskhatab.engineer
 
 www.planet-crypton.com
 
-#####
+##### Socials
 
 <a href="https://www.linkedin.com/in/awais-khatab-3aa18616b/"><img src="/images/LinkedIN.png" width="50" height="auto" />&nbsp;&nbsp;&nbsp;</a><a href="https://medium.com/@AwaisKhatab"><img src="/images/Medium.png" width="50" height="auto" />&nbsp;&nbsp;&nbsp;
 </a><a href="https://www.instagram.com/interdimensional_pancake.eng/"><img src="/images/Instagram-1.png" width="50" height="auto" />&nbsp;&nbsp;&nbsp;</a>
