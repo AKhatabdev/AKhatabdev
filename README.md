@@ -19,8 +19,9 @@ www.awaiskhatab.engineer
 
 www.planet-crypton.com
 
+<a href="https://medium.com/@AwaisKhatab">
 <img src="/images/Medium.png" width="50" height="auto" padding="1"/>
-https://medium.com/@AwaisKhatab
+</a>
 
 ### Linkedin
 https://www.linkedin.com/in/awais-khatab-3aa18616b/
