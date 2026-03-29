@@ -17,8 +17,8 @@
 ##### Currently working on: Crypton v2
 [![Netlify Status](https://api.netlify.com/api/v1/badges/07fbf196-e79b-4774-8af1-0dfe89eb3d60/deploy-status)](https://app.netlify.com/sites/cryptonx/deploys)
 
-www.planet-crypton.com
-
+[www.planet-crypton.com
+](https://cryptonx.netlify.app/)
 ### Socials
 
 <a href="https://www.linkedin.com/in/awais-khatab-3aa18616b/"><img src="/images/LinkedIN.png" width="50" height="auto" />&nbsp;&nbsp;&nbsp;</a><a href="https://medium.com/@AwaisKhatab"><img src="/images/Medium.png" width="50" height="auto" />&nbsp;&nbsp;&nbsp;
