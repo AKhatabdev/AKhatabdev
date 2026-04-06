@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=AKhatabdev&show_icons=true&count_private=true" width="500" height="auto"/>
-
 ![carbon1](https://user-images.githubusercontent.com/42613988/159044315-721b4e30-ca8a-428a-bb33-58ef70d6c98f.png)
 
 #### :octocat: Hi everyone!
